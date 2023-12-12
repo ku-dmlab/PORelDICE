@@ -1,3 +1,5 @@
+export D4RL_SUPPRESS_IMPORT_ERROR=1
+
 NUM_GPUS=4
 ENV_LIST=(
 	"antmaze-umaze-v2"
