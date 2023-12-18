@@ -4,7 +4,7 @@ This is the implementation for our paper **Relaxed Stationary Distribution Corre
 
 This codebase is built upon [IQL](https://github.com/ikostrikov/implicit_q_learning.git) and [SQL](https://github.com/ryanxhr/IVR.git) repository.
 
-## Installations
+## Installation
 
     $ conda create -c nvidia -n PORelDICE python=3.8 cuda-nvcc=11.3
     $ conda activate PORelDICE
