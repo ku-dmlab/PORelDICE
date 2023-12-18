@@ -8,6 +8,7 @@ ENV_LIST=(
 	# "antmaze-medium-diverse-v2"
 	# "antmaze-large-play-v2"
 	# "antmaze-large-diverse-v2"
+)
 
 ALPHA_LIST=(
 	0.1

@@ -8,7 +8,7 @@ This codebase is built upon [IQL](https://github.com/ikostrikov/implicit_q_learn
 
     $ conda create -c nvidia -n PORelDICE python=3.8 cuda-nvcc=11.3
     $ conda activate PORelDICE
-    $ pip install -r requirements.txt --no-deps
+    $ pip install -r requirements.txt
 
 ## Run Experiments 
 
